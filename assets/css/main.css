@@ -1,3 +1,32 @@
-h1{
-    color: blue;
+footer{
+position: absolute;
+  bottom: 0;
+  width: 100%;
+
 }
+
+h1.hello{
+    color: white;
+    font-weight: bold;
+    line-height: 100px;
+}
+
+p.biography{
+    color: white;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.pug {
+    /*float: left;*/
+    width: 500px;
+    height: 500px;
+    padding: 100px;
+  }
+
+  .pug1{
+    /*float: left;*/
+    width: 500px;
+    height: 500px; 
+    padding: 100px;
+  }

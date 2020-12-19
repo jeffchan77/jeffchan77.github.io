@@ -1,0 +1,19 @@
+body{
+    background: turquoise;
+}
+
+h1{
+    color: red;
+    font-weight: 900;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background: yellow;
+}
+
+h1:hover{
+    background-color: white;
+}
+
+h1:active{
+    background-color: black;
+}
